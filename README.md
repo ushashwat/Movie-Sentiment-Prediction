@@ -16,7 +16,7 @@ Citation: Maas, A.L., Daly, R.E., Pham, P.T., Huang, D., Ng, A.Y., Potts, C. "Le
 
 
 ### Results
-Test accuracy: **91.35%** </br>
+Test accuracy: **90.98%** </br>
 
 
 ![Error!](https://github.com/ushashwat/Movie-Sentiment-Prediction/blob/master/confusion_matrix.png)
