@@ -5,6 +5,7 @@ Predicting the sentiment of movie reviews </br>
 
 ![Error!](https://github.com/ushashwat/Movie-Sentiment-Prediction/blob/master/word_cloud.png) </br>
 
+
 ### Data Description
 The IMDB dataset has 50K movie reviews for natural language processing or Text analytics. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. Provided is a set of 25,000 highly polar movie reviews for training and 25,000 for testing. </br>
 
