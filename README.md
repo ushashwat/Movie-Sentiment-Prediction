@@ -1,4 +1,4 @@
-# Movie-Sentiment-Prediction
+# Movie Sentiment Prediction
 [Kaggle Notebook](https://www.kaggle.com/ushashwat/movie-sentiment-prediction) </br>
 Predicting the sentiment of movie reviews </br>
 
